@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-image: url('back.jpg');
+    background-size: cover;
+}
+
+.img{
+    width:  270px;
+    height: 250px;
+    border-radius: 100px;
+}
+
+.name{
+    font-family: Edwardian Script ITC;
+    font-size: 30px;
+    color: white;
+}
+
+.na{
+    font-size: 20px;
+    color: white;
+    font-family: sans-serif;
+}
+
+.btn{
+    text-decoration: none;
+    color: white;
+    padding: 10px 20px;
+    font-size: 20px;
+    background: indianred;
+    border-radius: 8px;
+}
+
+.p1{
+    font-size: 40px;
+    font-family: Palace Script MT;
+    color: white;
+}
+
+.n1{
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: justify;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
